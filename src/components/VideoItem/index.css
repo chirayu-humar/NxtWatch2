@@ -1,0 +1,183 @@
+@media screen and (max-width: 575px) {
+  .videoItemOuter {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    flex-direction: column;
+  }
+  .thumbnailContainer {
+    width: 100%;
+  }
+  .thumbnailImage {
+    width: 100%;
+  }
+  .detailsContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+  }
+  .videoProfileContainer {
+    padding: 20px;
+  }
+  .profileOfVideo {
+    width: 50px;
+    height: 50px;
+  }
+  .contentContainer {
+    width: 70%;
+    padding: 10px;
+  }
+  .informationDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+  .videoItemOuter {
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+  }
+  .thumbnailContainer {
+    width: 100%;
+  }
+  .thumbnailImage {
+    width: 100%;
+  }
+  .detailsContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+  }
+  .videoProfileContainer {
+    padding: 20px;
+  }
+  .profileOfVideo {
+    width: 50px;
+    height: 50px;
+  }
+  .contentContainer {
+    width: 70%;
+    padding: 10px;
+  }
+  .informationDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .videoItemOuter {
+    width: 32%;
+    display: flex;
+    flex-direction: column;
+    flex-direction: column;
+  }
+  .thumbnailContainer {
+    width: 100%;
+  }
+  .thumbnailImage {
+    width: 100%;
+  }
+  .detailsContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+  }
+  .videoProfileContainer {
+    padding: 20px;
+  }
+  .profileOfVideo {
+    width: 50px;
+    height: 50px;
+  }
+  .contentContainer {
+    width: 70%;
+    padding: 10px;
+  }
+  .informationDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199) {
+  .videoItemOuter {
+    width: 32%;
+    display: flex;
+    flex-direction: column;
+  }
+  .thumbnailContainer {
+    width: 100%;
+  }
+  .thumbnailImage {
+    width: 100%;
+  }
+  .detailsContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: cyan;
+  }
+  .videoProfileContainer {
+    padding: 20px;
+  }
+  .profileOfVideo {
+    width: 50px;
+    height: 50px;
+  }
+  .contentContainer {
+    width: 70%;
+    padding: 10px;
+  }
+  .informationDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .videoItemOuter {
+    width: 32%;
+    display: flex;
+    flex-direction: column;
+    flex-direction: column;
+  }
+  .thumbnailContainer {
+    width: 100%;
+  }
+  .thumbnailImage {
+    width: 100%;
+  }
+  .detailsContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+  }
+  .videoProfileContainer {
+    padding: 20px;
+  }
+  .profileOfVideo {
+    width: 50px;
+    height: 50px;
+  }
+  .contentContainer {
+    width: 70%;
+    padding: 10px;
+  }
+  .informationDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+  }
+}
