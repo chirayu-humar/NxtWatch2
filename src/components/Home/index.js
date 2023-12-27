@@ -175,6 +175,7 @@ class Home extends Component {
                           </div>
                           <div>
                             <button
+                              aria-label="removeTheBanner"
                               type="button"
                               data-testid="close"
                               onClick={this.removeTheBanner}
